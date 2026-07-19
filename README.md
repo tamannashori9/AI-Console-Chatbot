@@ -23,3 +23,6 @@ An AI chatbot built using Python and OpenRouter API.
 pip install -r requirements.txt
 python app.py
 ```
+## Screenshot
+
+![AI ChatBot Screenshot(screenshot/AI_ss.png)
