@@ -25,4 +25,4 @@ python app.py
 ```
 ## Screenshot
 
-![AI ChatBot Screenshot(screenshot/AI_ss.png)
+![AI ChatBot Screenshot](screenshot/AI_ss.png)
