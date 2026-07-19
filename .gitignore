@@ -1,0 +1,4 @@
+NUMITECH
+.env
+venv/
+__pycache__/
